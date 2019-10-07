@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	font-family: verdana;
+	font-size: 2vh;
+}
+#wettertext {
+	padding-top: 4vh;
+	text-align: center;
+	padding-bottom: 3vh;
+}
+#wetterpic {
+	height: 90vh;
+	background-size: cover;
+}
