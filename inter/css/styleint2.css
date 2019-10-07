@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	font-family: verdana;
+	font-size: 2vh;
+}
+#text {
+	padding-top: 4vh;
+	text-align: center;
+	padding-bottom: 3vh;
+}
