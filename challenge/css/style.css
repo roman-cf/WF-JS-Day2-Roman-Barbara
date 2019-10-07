@@ -9,13 +9,11 @@ main{
 	
 }
 #products{
-	width: 80%;
+	width: 70%;
 	padding: 1em;
 	background-color: snow;
 	display: flex;
 	flex-wrap: wrap; 
-
-
 }
 aside{
 	flex: 1;
@@ -24,6 +22,10 @@ aside{
 	color: snow;
 }
 
+li {
+	display: flex;
+	justify-content: space-between;
+}
 .pDiv{
 	display: flex;
 	flex-direction: column;
@@ -35,4 +37,7 @@ aside{
 	border-radius: 2px;
 	box-shadow: 3px 3px 8px black;
 
+}
+[id*="liId"] button{
+	margin-left: 5px;
 }
