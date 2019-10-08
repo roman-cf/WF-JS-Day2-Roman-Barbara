@@ -41,3 +41,6 @@ li {
 [id*="liId"] button{
 	margin-left: 5px;
 }
+#summ{
+	font-weight: bold;
+}
